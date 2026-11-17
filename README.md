@@ -1,3 +1,7 @@
+<p align="center"><img src="branding/bricohams_horizontal.svg" alt="BricoHams · Radioafición · Hazlo tú mismo" width="420"></p>
+
+<p align="center"><a href="https://bricohams.org">bricohams.org</a> · Anatol EA5KAO · Diego EA5JEF · Pedro Roca Molina</p>
+
 # Antena discono casera 80–1300 MHz
 
 Construye una discono de banda ancha para escáner o SDR por unos 25–40 €, con varilla de aluminio, dos bujes torneados y piezas imprimibles en 3D.
